@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productData>
+  <dependsOn>
+    <component>
+      <name>softwaresupportpkgs/vision/opencv_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1425070576</version>
+    </component>
+    <component>
+      <name>softwaresupportpkgs/vision/opencv_resources_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1406138631</version>
+    </component>
+    <component>
+      <name>3p/opencvsdk_common</name>
+      <locale />
+      <platformList>
+        <platform>glnxa64</platform>
+        <platform>maci64</platform>
+        <platform>win32</platform>
+        <platform>win64</platform>
+      </platformList>
+      <version>1422570260</version>
+    </component>
+  </dependsOn>
+  <installerUsage>
+    <usage>professional</usage>
+  </installerUsage>
+  <isControllingProduct>false</isControllingProduct>
+  <platformList>
+    <platform>glnxa64</platform>
+    <platform>maci64</platform>
+    <platform>win32</platform>
+    <platform>win64</platform>
+  </platformList>
+  <productBaseCode>CVST_OPENCV_INTERFACE</productBaseCode>
+  <productName>Computer Vision System Toolbox OpenCV Interface</productName>
+  <productNumber>2099</productNumber>
+  <productVersion>15.1.0</productVersion>
+  <releaseDescription>R2015a</releaseDescription>
+  <releaseFamily>R2015a</releaseFamily>
+  <requiredProducts />
+</productData>
+

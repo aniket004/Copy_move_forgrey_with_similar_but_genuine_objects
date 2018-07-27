@@ -1,0 +1,120 @@
+
+------------------------------------------------------------------------------------
+Tag: 30_1
+Time: 30-Jan-2017 09:31:30
+
+Original Image File = C:\Users\T3600\Desktop\watermarking_code\RWEP_3.3.1b_image_audio\test_inputs\lena.TIF
+Multiple Watermarking Scheme chosen
+BPP Lower = 0.1
+BPP Upper = 1
+BPP Step Size = 0.1
+Generate? Yes
+Compare? No
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.3538s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.1649s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.143s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Embedding Capacity Exceeded by 26066 bit(s).
+Total time taken: 1.1718s
+Operation ABORTED
+
+BPP = [ 0.1  0.2  0.3 ]
+PSNR = [ 51.1945  50.7769  50.3937 ]
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.4621s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3237s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.2952s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3284s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Embedding Capacity exceeded by 5530 bit(s).
+Total time taken: 1.2632s
+Operation ABORTED
+
+BPP = [ 0.1  0.2  0.3  0.4 ]
+PSNR = [ 44.9214  39.6292  36.2374  34.3256 ]
+
+Logging session over
+
+------------------------------------------------------------------------------------
+Tag: 30_1_17
+Time: 30-Jan-2017 10:00:18
+
+Original Image File = C:\Users\T3600\Desktop\watermarking_code\RWEP_3.3.1b_image_audio\test_inputs\lena.TIF
+Multiple Watermarking Scheme chosen
+BPP Lower = 0.1
+BPP Upper = 1
+BPP Step Size = 0.1
+Generate? Yes
+Compare? No
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.1776s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.1401s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Total time taken: 1.2153s
+
+Algorithm = Interpolation for Image watermarking
+Maximum Embedding Capacity : 78810 bits.
+Embedding Capacity Exceeded by 26066 bit(s).
+Total time taken: 1.2028s
+Operation ABORTED
+
+BPP = [ 0.1  0.2  0.3 ]
+PSNR = [ 51.1983  50.7767  50.3965 ]
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3203s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3147s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3763s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Total time taken: 1.3133s
+
+Algorithm = Difference Expansion for Image watermarking
+Maximum embedding capacity = 131072 bits.
+Embedding Capacity exceeded by 5530 bit(s).
+Total time taken: 1.2657s
+Operation ABORTED
+
+BPP = [ 0.1  0.2  0.3  0.4 ]
+PSNR = [ 44.9207  39.6313  36.2339  34.3279 ]
+
+Logging session over

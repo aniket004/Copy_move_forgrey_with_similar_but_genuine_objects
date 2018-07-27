@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rsccat version="1.0" locale="en_US" product="opencvinterface">
+  <message>
+    <entry key="incompatibleCompiler">The OpenCV libraries were built using ''{0}''. \n Your compiler is ''{1}''. \n These compilers may not be compatible. \n Note that you can select a compiler using 'mex -setup' command.</entry>  
+</message>
+</rsccat>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn>
+    <component>
+      <name>3p/opencvsdk_win64</name>
+      <locale />
+      <platformList>
+        <platform>win64</platform>
+      </platformList>
+      <version>1422571276</version>
+    </component>
+  </dependsOn>
+  <isControllingProduct>false</isControllingProduct>
+  <platform>win64</platform>
+  <productBaseCode>CVST_OPENCV_INTERFACE</productBaseCode>
+  <productName>Computer Vision System Toolbox OpenCV Interface</productName>
+  <productNumber>2099</productNumber>
+  <productVersion>15.1.0</productVersion>
+  <releaseDescription>R2015a</releaseDescription>
+  <releaseFamily>R2015a</releaseFamily>
+</productAdditionalComps>
+

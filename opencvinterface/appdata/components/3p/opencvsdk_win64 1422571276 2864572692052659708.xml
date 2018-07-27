@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<componentData>
+  <component>
+    <componentBaseName>3p/opencvsdk</componentBaseName>
+    <componentFileName>3p/opencvsdk_win64_1422571276.zip</componentFileName>
+    <componentName>3p/opencvsdk_win64</componentName>
+    <componentVersion>1422571276</componentVersion>
+    <locale />
+    <numFiles>18</numFiles>
+    <platformList>
+      <platform>win64</platform>
+    </platformList>
+    <releaseFamily>R2015a</releaseFamily>
+    <size>2700794</size>
+    <type />
+    <uncompressedBytes>14554176</uncompressedBytes>
+  </component>
+</componentData>
+
