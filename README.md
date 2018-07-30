@@ -23,4 +23,8 @@ Copy_Move_Forgery_With_Similar_But_Genuine_Object
 we acknowledge the paper and code:
  A SIFT-based forensic method for copy-move attack detection and transformation recovery, I. Amerini, L. Ballan, R. Caldelli, A. Del Bimbo, and G. Serra, IEEE Trans. on Information Forensics and Security, vol. 6, iss. 3, pp. 1099-1110, 2011.
  
-We have modified and used the code for our experimentation: Github: http://robwhess.github.io/opensift/
+We have modified and used the code for our experimentation:
+Github: http://robwhess.github.io/opensift/
+http://www.lambertoballan.net/research/image-forensics/
+
+
